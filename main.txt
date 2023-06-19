@@ -3,3 +3,8 @@ Primeiro arquivo do repositório!
 Testando merge
 
 Resolvendo conflitos
+
+<texto>
+
+Editando arquivo
+</texto>
